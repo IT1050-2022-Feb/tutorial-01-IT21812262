@@ -1,4 +1,4 @@
-/*Exercise 2 - Selection
+          /*Exercise 2 - Selection
 
 Write a program to calculate the amount to be paid for a rented vehicle.
 
